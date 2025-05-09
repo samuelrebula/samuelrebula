@@ -1,36 +1,36 @@
 [
-    {
-        "type": "normal",
-        "fileName": "day-green-version.svg",
-        "backgroundColor": "#ffffff",
-        "foregroundColor": "#000000",
-        "strongColor": "#47a042",
-        "weakColor": "#8cc569",
-        "radarColor": "#47a042",
-        "growingAnimation": true,
-        "contribColors": [
-            "#efefef",
-            "#d8e887",
-            "#8cc569",
-            "#47a042",
-            "#1d6a23"
-        ]
-    },
-    {
-        "type": "night-view",
-        "fileName": "night-night-view.svg",
-        "backgroundColor": "#0b1021",         
-        "foregroundColor": "#eeeeff",         
-        "strongColor": "#ffc837",             
-        "weakColor": "#aaaaaa",               
-        "radarColor": "#ffc837",              
-        "growingAnimation": true,
-        "contribColors": [
-            "#20396c",   
-            "#2657a3",   
-            "#2675d7",   
-            "#31a6f6",   
-            "#51cbff"  
-      ],
-    }
+{
+  "type": "normal",
+  "fileName": "day-green-version.svg",
+  "backgroundColor": "#ffffff",
+  "foregroundColor": "#000000",
+  "strongColor": "#47a042",
+  "weakColor": "#8cc569",
+  "radarColor": "#47a042",
+  "growingAnimation": true,
+  "contribColors": [
+    "#efefef",
+    "#d8e887",
+    "#8cc569",
+    "#47a042",
+    "#1d6a23"
+  ]
+},
+{
+  "type": "night-view",
+  "fileName": "night-night-view.svg",
+  "backgroundColor": "#0b1021",
+  "foregroundColor": "#eeeeff",
+  "strongColor": "#ffc837",
+  "weakColor": "#aaaaaa",
+  "radarColor": "#ffc837",
+  "growingAnimation": true,
+  "contribColors": [
+    "#20396c",
+    "#2657a3",
+    "#2675d7",
+    "#31a6f6",
+    "#51cbff"
+  ],
+}
 ]
