@@ -19,18 +19,18 @@
     {
         "type": "night-view",
         "fileName": "night-night-view.svg",
-        "backgroundColor": "#00000f",
-        "foregroundColor": "#eeeeff",
-        "strongColor": "#ffc837",
-        "weakColor": "#aaaaaa",
-        "radarColor": "#ffc837",
+        "backgroundColor": "#0b1021",         
+        "foregroundColor": "#eeeeff",         
+        "strongColor": "#ffc837",             
+        "weakColor": "#aaaaaa",               
+        "radarColor": "#ffc837",              
         "growingAnimation": true,
         "contribColors": [
-            "rgb(25, 60, 130)",
-            "rgb(25, 90, 210)",
-            "rgb(25, 120, 220)",
-            "rgb(25, 150, 230)",
-            "rgb(25, 165, 240)"
-        ]
+            "#20396c",   
+            "#2657a3",   
+            "#2675d7",   
+            "#31a6f6",   
+            "#51cbff"  
+      ],
     }
 ]
