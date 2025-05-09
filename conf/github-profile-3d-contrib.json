@@ -19,19 +19,19 @@
     {
         "type": "night-view",
         "fileName": "night-night-view.svg",
-        "backgroundColor": "#00000f",
+        "backgroundColor": "#2d2d2d",
         "foregroundColor": "#eeeeff",
-        "strongColor": "rgb(255,200,55)",
+        "strongColor": "#ffcc00",
         "weakColor": "#aaaaaa",
-        "radarColor": "rgb(255,200,55)",
+        "radarColor": "#ffcc00",
         "growingAnimation": true,
         "saturation": "50%",
         "contribLightness": [
             "20%",
             "30%",
-            "35%",
             "40%",
-            "50%"
+            "50%",
+            "60%"
         ],
         "duration": "10s",
         "hueRatio": -7
